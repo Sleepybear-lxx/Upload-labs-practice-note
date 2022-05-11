@@ -17,6 +17,7 @@
 在真实ubuntu中测试发现，即使没有开启phtml解析项，phtml也按照php来解析。目前原因未知。
 ## Pass-06
 在真实ubuntu中测试发现，上传大写PHP后缀文件，可以正常访问，但无法解析，代码被当作注释未执行（解析为html）。目前原因未知。
+![image](https://github.com/Sleepybear-lxx/Upload-labs-practice-note/blob/main/images/Pass-06.png)
 ## Pass-07
 在真实ubuntu中测试发现，上传“test.php.”文件，可以正常访问，但无法解析，代码被当作注释未执行（解析为html）。目前原因未知。
 ## Pass-17
