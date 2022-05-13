@@ -7,11 +7,29 @@
   * 上传 Pass01-04思路
   * 上传 Pass06-19思路
 
+# 完成情况
 
-# 未完成
-- [] Pass05
-- [] Pass20
-- [] Pass21
+- [x] Pass-01
+- [x] Pass-02
+- [x] Pass-03
+- [x] Pass-04
+- [ ] Pass-05
+- [x] Pass-06
+- [x] Pass-07
+- [x] Pass-08
+- [x] Pass-09
+- [x] Pass-10
+- [x] Pass-11
+- [x] Pass-12
+- [x] Pass-13
+- [x] Pass-14
+- [x] Pass-15
+- [x] Pass-16
+- [x] Pass-17
+- [x] Pass-18
+- [x] Pass-19
+- [ ] Pass-20
+- [ ] Pass-21
 
 
 # 存在问题
