@@ -1,16 +1,18 @@
 # Upload-labs-practice-note
 记录练习Upload-labs文件上传靶场的思路和方法
+
+
 # 更新日志
 * V1.0 2022/05/11
   * 上传 Pass01-04思路
   * 上传 Pass06-19思路
 
 
-
 # 未完成
-* Pass05
-* Pass20
-* Pass21
+- [] Pass05
+- [] Pass20
+- [] Pass21
+
 
 # 存在问题
 ## Pass-03
@@ -25,7 +27,6 @@
 ## Pass-19
 未过关
 
+
 # 解决问题
 ## 暂无
-
-[x] 11
